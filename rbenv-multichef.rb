@@ -22,7 +22,7 @@ require "pathname"
 class RbenvMultichef < Formula
   homepage "https://github.com/carsomyr/rbenv-multichef"
   url "https://github.com/carsomyr/rbenv-multichef/archive/0.9.2.tar.gz"
-  sha1 "4c8a2b024c2a665950f1eb7caddb5639c60cb06f"
+  sha256 "2f43b9019c2b850429a2712ead89ec36c87b75186dffad1f403483a8a2dca4bc"
   head "https://github.com/carsomyr/rbenv-multichef.git"
 
   depends_on "rbenv"
